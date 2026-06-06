@@ -36,6 +36,7 @@ L["go fuck"]={{path="chatsounds/autoadd/random_shit/go fuck.ogg",length=0.643}}
 L["goodbye"]={{path="chatsounds/autoadd/random_shit/goodbye.ogg",length=8.761}}
 L["hackerman"]={{path="chatsounds/autoadd/random_shit/hackerman.ogg",length=0.746}}
 L["hah gay"]={{path="chatsounds/autoadd/random_shit/hah gay.ogg",length=2.791}}
+L["hah gay remix"]={{path="chatsounds/autoadd/random_shit/hah gay remix.ogg",length=15.929}}
 L["hello internet welcome to gay"]={{path="chatsounds/autoadd/random_shit/hello internet welcome to gay.ogg",length=3.585}}
 L["hes the most powerful hacker of all time"]={{path="chatsounds/autoadd/random_shit/hes the most powerful hacker of all time.ogg",length=2.367}}
 L["hey joe"]={{path="chatsounds/autoadd/random_shit/hey joe.ogg",length=0.465}}
